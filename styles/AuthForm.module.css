@@ -1,0 +1,18 @@
+.formHeading {
+    padding: 15px 0;
+    text-align: center;
+    font-weight: 600;
+}
+
+.formButton {
+    margin: 12px 0;
+}
+
+.formLink {
+    font-size: 14px;
+}
+
+.signupBtn {
+    padding: 15px;
+    display: block;
+}
